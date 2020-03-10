@@ -9,7 +9,9 @@ The project contains several Part:
 2) Simple UI to demo the allocation.
 3) XLL Addin to easily utilize the code in excel
 
+
 1) Post Trade Dynamic allocation algorithm:
+
 This method is based on Pattern US20130013482A1.
 
 Component:
