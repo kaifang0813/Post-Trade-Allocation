@@ -9,10 +9,7 @@ The project contains several Part:
 2) Simple UI to demo the allocation.
 3) XLL Addin to easily utilize the code in excel
 
-
-1) Post Trade Dynamic allocation algorithm:
-
-This method is based on Pattern US20130013482A1.
+Post Trade Dynamic allocation algorithm: This method is based on Pattern US20130013482A1.
 
 Component:
 
@@ -23,12 +20,12 @@ Component:
 - last_trade_allocation.py helper function of the optimization
 - config.py config file of the related path
 
-2) UI Component:
+UI Component:
 Following MVC design pattern:
 - view.py
 - side_pannel.py
 - model.py
 
-3) XLL Addin
+XLL Addin
 - allocation_xll.py  using xll library
 - allocation_xlwings.py using xlwings library
